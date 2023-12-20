@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "956849813475",
+    "firebase_url": "https://driver-ae714-default-rtdb.firebaseio.com",
+    "project_id": "driver-ae714",
+    "storage_bucket": "driver-ae714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956849813475:android:0ad07d0852cb6171a412d6",
+        "android_client_info": {
+          "package_name": "com.digigrow.urride_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWSot_76y16lU4o4uumR8HX0lVQbAP5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

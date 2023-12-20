@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB4SmKAym6YUYBGV6JiK7VaNfFkT3Z9KOg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>327303840705</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.urridedriver.ios</string>
+	<key>PROJECT_ID</key>
+	<string>urride-driver-87514</string>
+	<key>STORAGE_BUCKET</key>
+	<string>urride-driver-87514.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:327303840705:ios:0e1a1f7fc45a546d156540</string>
+</dict>
+</plist>
